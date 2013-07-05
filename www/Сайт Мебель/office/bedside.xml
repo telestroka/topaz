@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<model id="1">
+		<title>Тумба для аппаратуры</title>
+		<sizes>
+			<size>800*450*650 — 1.700 р.</size>
+		</sizes>
+		<description></description>
+	</model>
+	<model id="2">
+		<title>Тумба мобильня с 3-я ящиками</title>
+		<sizes>
+			<size>400*450*500 — 1.450 р.</size>
+		</sizes>
+		<description></description>
+	</model>
+	<model id="3">
+		<title>Тумба под оргтехнику</title>
+		<sizes>
+			<size>800*400*800 — 1.500 р.</size>
+		</sizes>
+		<description></description>
+	</model>
+</catalog>

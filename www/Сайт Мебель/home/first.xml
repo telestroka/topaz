@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<model id="1">
+		<title>Комод чудесный раскладной 1.800 — 2.050 руб.</title>
+		<sizes>
+			<size>1300*900*760 — 1.800</size>
+			<size>1400*900*750 — 1.900</size>
+			<size>1500*900*760 — 2.050</size>			
+		</sizes>
+		<description></description>
+	</model>
+	<model id="2">
+		<title>Тумба двойная</title>
+		<sizes></sizes>
+		<description></description>
+	</model>
+	
+	<model id="31">
+		<title>Комодик</title>
+		<sizes>
+			<size></size>
+		</sizes>
+		<description></description>
+	</model>
+	
+	<model id="32">
+		<title>Тумба односекционная</title>
+		<sizes>
+			<size></size>
+		</sizes>
+		<description></description>
+	</model>
+	
+	
+		<model id="34">
+		<title>Комодик 14 02 2011</title>
+		<sizes>
+			<size></size>
+		</sizes>
+		<description></description>
+	</model>	
+	
+	<model id="35">
+		<title>Тумба 14 02 2011</title>
+		<sizes>
+			<size></size>
+		</sizes>
+		<description></description>
+	</model>
+	
+	<model id="36">
+		<title>Комодищ-щ-щ-е-е 14 02 2011</title>
+		<sizes>
+			<size></size>
+		</sizes>
+		<description></description>
+	</model>
+	
+	
+	
+	
+	
+
+	<model id="4">
+		<title>Шкаф с ящиками</title>
+		<sizes>
+			<size></size>
+		</sizes>
+		<description></description>
+	</model>
+	
+		<model id="3">
+		<title>Комодик и тумба</title>
+		<sizes>
+			<size></size>
+		</sizes>
+		<description></description>
+	</model>
+	
+</catalog>

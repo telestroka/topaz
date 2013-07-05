@@ -1,0 +1,23 @@
+RewriteEngine on
+RewriteBase /
+RewriteRule ^office/table/([0-9]+) /catalog/?sect=office&cat=table&item=$1 [QSA]
+RewriteRule ^office/table /catalog/?sect=office&cat=table [QSA]
+RewriteRule ^office/bedside/([0-9]+) /catalog/?sect=office&cat=bedside&item=$1 [QSA]
+RewriteRule ^office/bedside /catalog/?sect=office&cat=bedside [QSA]
+RewriteRule ^office/cupboard/([0-9]+) /catalog/?sect=office&cat=cupboard&item=$1 [QSA]
+RewriteRule ^office/cupboard /catalog/?sect=office&cat=cupboard [QSA]
+RewriteRule ^office /catalog/?sect=office [QSA]
+RewriteRule ^home/first/([0-9]+) /catalog/?sect=home&cat=first&item=$1 [QSA]
+RewriteRule ^home/first /catalog/?sect=home&cat=first [QSA]
+RewriteRule ^home /catalog/?sect=home [QSA]
+
+#RewriteCond %{REQUEST_FILENAME} !(works.html)
+#RewriteRule .* works.html
+
+AddDefaultCharset utf-8
+ErrorDocument 404 /index.php
+
+<FilesMatch "\.(inc|tpl)$">
+Order allow,deny
+Deny from all
+</FilesMatch>

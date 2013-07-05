@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+        <model id="1">
+                <title>Стол офисный эргономичный L.</title>
+                <sizes>
+                        <size>СФ256 1300*900*760</size>
+                        <size>СФ250 1400*900*750</size>
+                        <size>СФ258 1500*900*760</size>
+                </sizes>
+                <description></description>
+        </model>
+        <model id="2">
+                <title>Стол офисный эргономичный R.</title>
+                <sizes>
+                        <size>СФ257 1300*900*760</size>
+                        <size>СФ251 1400*900*750</size>
+                        <size>СФ259 1500*900*760</size>
+                </sizes>
+                <description></description>
+        </model>
+        <model id="3">
+                <title>Стол письменный с 3-я ящиками</title>
+                <sizes>
+                        <size>СФ215, СФ225 1200*700*760</size>
+                        <size>СФ213, СФ223 1500*700*760</size>
+                </sizes>
+                <description>Так-же в наличии правосторонняя модель</description>
+        </model>
+        <model id="4">
+                <title>Стол компьютерный СФ221</title>
+                <sizes>
+                        <size>1000*700*760</size>
+                </sizes>
+                <description></description>
+        </model>
+        <model id="5">
+                <title>Стол письменный</title>
+                <sizes>
+                        <size>СФ212 1200*700*760 </size>
+                        <size>СФ210 1400*700*750 </size>
+                        <size>СФ211 1500*700*760</size>
+                        <size>СФ222 1600*700*760</size>
+                </sizes>
+                <description></description>
+        </model>
+        <model id="6">
+                <title>Тумба мобильная с тремя ящикамиТФ210</title>
+                <sizes>
+                        <size>400*450*500</size>
+                    </sizes>
+                <description>Пример комплектации. </description>
+                </model>
+        <model id="7">
+                <title>Стол компьютерный</title>
+                <sizes>
+                        <size>СФ218 1500*700*760 </size>
+                        <size> СФ238 1300*700*760</size>
+               </sizes>
+<description>Так-же в наличии правосторонняя модель</description>
+        </model>
+                <model id="8">
+                <title>Стол эргономичный с ящиками СФ260</title>
+                <sizes>
+                        <size>1500*900*760 </size>
+                        <size></size>
+                        <size></size>
+                </sizes>
+				<description></description>
+        </model>
+		
+	</catalog>

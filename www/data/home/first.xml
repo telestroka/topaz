@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+        <model id="1">
+                <title>Комод с пеленальным столом </title>
+                <sizes>
+                        <size>800*470-780*900</size>
+				</sizes>
+               <description></description>
+        </model>
+		
+		        <model id="11">
+                <title>Стол компьютерный угловой - </title>
+                <sizes>
+                        <size>1500*1200*760</size>
+				</sizes>
+               <description></description>
+        </model>        
+				
+				<model id="12">
+                <title>Стол компьютерный угловой с подставкой под монитор</title>
+                <sizes>
+                        <size>1500*1200*860</size>
+				</sizes>
+               <description></description>
+        </model>
+				
+				<model id="13">
+                <title>Стол-книжка</title>
+                <sizes>
+                        <size>750*300/1468*750</size>
+				</sizes>
+               <description></description>
+        </model>
+		
+		
+		
+		
+        <model id="2">
+                <title>Тумба ТВ с двумя ящиками </title>
+                 <sizes>
+                        <size>1200*500*540</size>			
+		</sizes>
+                <description></description>
+        </model>
+
+		
+	
+        <model id="31">
+                <title>Комод с четырьмя ящиками </title>
+                <sizes>
+                        <size>600*450*1020</size>
+                </sizes>
+                <description></description>
+        </model>
+		
+		
+        <model id="32">
+                <title>Тумба ТВ с ящиком 1000 </title>
+                <sizes>
+                        <size>1000*450*540</size>
+                </sizes>
+                <description></description>
+        </model>
+
+
+                <model id="34">
+                <title> Комод с четырьмя ящиками  </title>
+                <sizes>
+                        <size>600*450*1020</size>
+                </sizes>
+                <description></description>
+        </model> 
+
+		
+        <model id="35">
+                <title> Тумба ТВ с ящиком 1000   </title>
+                <sizes>
+                        <size>1000*450*540</size>
+                </sizes>
+                <description></description>
+        </model>
+
+		
+        <model id="36">
+                <title>Комод с шестью ящиками комбинированный</title>
+                <sizes>
+                        <size>600*450*1250</size>
+                </sizes>
+                <description></description>
+        </model>
+		
+		
+        <model id="37">
+                <title>Комод с шестью ящиками</title>
+                <sizes>
+                        <size>600*450*1250</size>
+                </sizes>
+                <description></description>
+        </model>
+
+
+
+
+        <model id="4">
+                <title>Шкаф платяной с ящиками </title>
+                <sizes>
+                        <size>800*500*2200</size>
+                </sizes>
+                <description></description>
+        </model>
+		
+        <model id="41">
+                <title>Шкаф платяной с ящиками</title>
+                <sizes>
+                        <size>800*500*2200</size>
+                </sizes>
+                <description></description>
+        </model>
+		
+        <model id="42">
+                <title>Набор для прихожей</title>
+                <sizes>
+                        <size>800*500*2200</size>
+                </sizes>
+                <description></description>
+        </model>
+		
+
+                <model id="3">
+                <title>Набор мебели в ассортименте</title>
+                <sizes>
+                        <size></size>
+                </sizes>
+                <description></description>
+        </model>
+		
+                <model id="301">
+                <title>Комод с полунакладными ящиками</title>
+                <sizes>
+                        <size>880*440*900</size>
+                </sizes>
+                <description></description>
+        </model>
+
+		
+		
+                <model id="5">
+                <title>Табурет</title>
+                <sizes>
+                        <size>320*320*440</size>
+                </sizes>
+                <description></description>
+        </model>
+
+
+</catalog>

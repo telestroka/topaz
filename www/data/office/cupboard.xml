@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+        <model id="1">
+                <title>Шкаф открытый угловой ЛФ202</title>
+                <sizes>
+                        <size>400*400*2000</size>
+                </sizes>
+                <description></description>
+        </model>
+        <model id="2">
+                <title>Шкаф для одежды узкий ЛФ237</title>
+                <sizes>
+                        <size>400*400*2000</size>
+                </sizes>
+                <description></description>
+        </model>
+        <model id="3">
+                <title>Шкаф-стеллаж закрытый ЛФ222</title>
+                <sizes>
+                        <size>800*400*2000</size>
+                </sizes>
+                <description> </description>
+        </model>
+        <model id="4">
+                <title>Шкаф полуоткрытый ЛФ218 </title>
+                <sizes>
+                        <size>800*400*2000</size>
+                </sizes>
+                <description> </description>
+        </model>
+        <model id="5">
+                <title>Шкаф открытый ЛФ221</title>
+                <sizes>
+                        <size>800*400*2000</size>
+                </sizes>
+                <description> </description>
+        </model>
+        <model id="6">
+                <title>Шкаф комбинированный со стекл. дверями ЛФ217 </title>
+                <sizes>
+                        <size>800*400*2000</size>          
+                </sizes>
+                <description> </description>
+        </model>
+        <model id="7">
+                <title>Набор мебели в ассортименте.</title>
+                <sizes>
+                        <size></size>
+                </sizes>
+                <description> </description>
+        </model>
+</catalog>

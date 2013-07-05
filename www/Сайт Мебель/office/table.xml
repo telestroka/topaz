@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<model id="1">
+		<title>Стол офисный эргономичный L.</title>
+		<sizes>
+			<size>1300*900*760 — 1.800 р.</size>
+			<size>1400*900*750 — 1.900 р.</size>
+			<size>1500*900*760 — 2.050 р.</size>
+		</sizes>
+		<description></description>
+	</model>
+	<model id="2">
+		<title>Стол офисный эргономичный R.</title>
+		<sizes>
+			<size>1300*900*760 — 1.800 р.</size>
+			<size>1400*900*750 — 1.900 р.</size>
+			<size>1500*900*760 — 2.050 р.</size>
+		</sizes>
+		<description></description>
+	</model>
+	<model id="3">
+		<title>Стол письменный с 3-я ящиками</title>
+		<sizes>
+			<size>1200*700*760 — 2.250 р.</size>
+			<size>1500*700*760 — 2.450 р.</size>
+		</sizes>
+		<description>Так-же в наличии правосторонняя модель</description>
+	</model>
+	<model id="4">
+		<title>Стол компьютерный</title>
+		<sizes>
+			<size>1760*700*760 — 1.600 р.</size>
+		</sizes>
+		<description></description>
+	</model>
+	<model id="5">
+		<title>Стол письменный</title>
+		<sizes>
+			<size>1200*700*760 — 1.400 р.</size>
+			<size>1400*700*750 — 1.540 р.</size>
+			<size>1500*700*760 — 1.600 р.</size>
+			<size>1600*700*760 — 1.720 р.</size>
+		</sizes>
+		<description></description>
+	</model>
+	<model id="6">
+		<title>Стол с выкатной тумбой</title>
+		<sizes>
+			<size></size>
+			<size></size>
+			<size></size>
+		</sizes>
+		<description>Пример комплектации. В зависимости от размеров — от 3.250 до 3.475 р.</description>
+		</model>
+	<model id="7">
+		<title>Стол компьютерный</title>
+		<sizes>
+			<size></size>
+			<size></size>
+			<size></size>
+		</sizes>
+		<description>от 3.250 до 3.475 р.</description>
+	</model>
+		<model id="8">
+		<title>Стол компьютерный</title>
+		<sizes>
+			<size></size>
+			<size></size>
+			<size></size>
+		</sizes>
+		<description>от 3.250 до 3.475 р.</description>
+	</model>
+
+</catalog>

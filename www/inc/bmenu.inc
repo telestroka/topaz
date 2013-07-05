@@ -1,0 +1,1 @@
+<ul id="bmenu">	<?php		$bmenu_pages = array(			'buy' => 'Оформить заявку',			'faq' => 'Вопросы и ответы',			'about' => 'О компании'		);		foreach ($bmenu_pages as $menu_page => $menu_title)		{			if ($menu_page == MODULE) echo '<li class="active">' . $menu_title . '</li>';			else echo '<li><a href="/' . $menu_page . '">' . $menu_title . '</a></li>';		}	?></ul>
